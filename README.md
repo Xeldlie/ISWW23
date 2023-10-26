@@ -7,6 +7,7 @@ Hier findet ihr alle meine Materialien für dieses Semester
 - [Discord](https://discord.gg/aZ7Ym3Mb68)
 - [Moodle](https://moodle.uni-heidelberg.de/course/view.php?id=19690)
 - [Testatzeiten](https://docs.google.com/spreadsheets/d/18YgONmJD09cB6v8RGrXMfFAW1d_ZfTCFPdylPLADPRw/edit?usp=sharing)
+- [Installationstutorial](https://confluence-se.ifi.uni-heidelberg.de/display/ISW2023/Installation+von+Java+und+Android+Studio)
 
 ## Zeiten und Termine
 

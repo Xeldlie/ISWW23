@@ -7,4 +7,11 @@ public class Fire {
     public void setTemp(int temp){
         this.temp = temp;
     }
+
+    @Override
+    public String toString() {
+        return "Fire{" +
+                "temp=" + temp +
+                '}';
+    }
 }

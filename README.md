@@ -2,11 +2,6 @@
 
 Hier findet ihr alle meine Materialien für dieses Semester
 
-## Folien ab Woche 6
-
-- [Woche 06](https://hackmd.io/@Xeldlie/rk6SodNS6)
-- [Woche 07](https://hackmd.io/@Xeldlie/H1bAIZAB6)
-
 ## Wichtige Links
 
 - [Confluence](https://confluence-se.ifi.uni-heidelberg.de/#all-updates)
